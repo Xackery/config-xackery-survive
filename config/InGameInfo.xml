@@ -18,6 +18,9 @@
                 <str> </str>
             </if>   
         </line>
+        <line>
+            <str>Xack's ModPack</str>
+        </line>
     </lines>
     <lines at="bottomleft">
         <line>
